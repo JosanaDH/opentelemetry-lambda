@@ -44,7 +44,7 @@
     "@opentelemetry/instrumentation-mysql": "^0.33.1",
     "@opentelemetry/instrumentation-net": "^0.31.2",
     "@opentelemetry/instrumentation-pg": "^0.35.1",
-    "@opentelemetry/instrumentation-redis": "^0.34.5",
+    "@opentelemetry/instrumentation-redis": "^0.35.0",
     "@opentelemetry/propagator-aws-xray": "^1.2.0",
     "@opentelemetry/resource-detector-aws": "^1.2.3",
     "@opentelemetry/resources": "^1.12.0",
