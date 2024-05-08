@@ -1,3 +1,4 @@
 opentelemetry-exporter-otlp-proto-http==1.17.0
 opentelemetry-distro==0.38b0
 opentelemetry-instrumentation-aws-lambda==0.38b0
+opentelemetry-instrumentation>=0.41b0 # not directly required, pinned by Snyk to avoid a vulnerability
